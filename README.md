@@ -22,17 +22,7 @@ TechBooks is a modern, responsive eCommerce web application built using React. I
 - Netlify (deployment)
 - Render for (Backend deployment)
   
-📦 Folder Structure
 
-techbooks/
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── services/
-│   ├── context/
-│   └── App.js
-└── README.md
 
 🧑‍💻 Author
 Siphiwe Matjene
